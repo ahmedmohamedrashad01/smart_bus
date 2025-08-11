@@ -1,0 +1,39 @@
+# Python / Django
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+/db.sqlite3
+.env
+.env.*
+.venv/
+venv/
+ENV/
+*.log
+/media/
+staticfiles/
+
+# VS Code / IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Tests & tooling
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Node (frontend)
+node_modules/
+**/node_modules/
+.dist/
+build/
+school-transport-frontend/
+
+# OS
+.DS_Store
+Thumbs.db
